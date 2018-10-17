@@ -14,3 +14,7 @@ code {
     monospace;
 }
 
+:root {
+  --gold: #f3992e;
+  --green: #3c7635;
+}
